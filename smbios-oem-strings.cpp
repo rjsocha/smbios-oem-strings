@@ -3,6 +3,8 @@
 
 // trigger new build
 
+this will fail...
+
 struct RawSMBIOSData
 {
     BYTE    Used20CallingMethod;
