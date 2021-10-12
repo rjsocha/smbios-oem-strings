@@ -2,6 +2,7 @@
 #include <stdio.h>
 
 // trigger new build
+// next one
 
 struct RawSMBIOSData
 {
