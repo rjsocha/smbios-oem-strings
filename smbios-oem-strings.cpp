@@ -1,6 +1,8 @@
 #include <windows.h>
 #include <stdio.h>
 
+// trigger new build
+
 struct RawSMBIOSData
 {
     BYTE    Used20CallingMethod;
